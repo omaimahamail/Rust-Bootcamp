@@ -1,0 +1,1 @@
+D:\University\FYP\ -\ Fazeel&Omaima\RUST\ BOOTCAMP\Rust-Bootcamp\first_assignment\target\debug\first_assignment.exe: D:\University\FYP\ -\ Fazeel&Omaima\RUST\ BOOTCAMP\Rust-Bootcamp\first_assignment\src\main.rs
